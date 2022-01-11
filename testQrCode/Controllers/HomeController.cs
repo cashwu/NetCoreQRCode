@@ -19,7 +19,7 @@ namespace testQrCode.Controllers
         }
 
         /// <summary>
-        /// https://localhost:5001/api/qrcode?url=http://blog.cashwu.com&pixel=15
+        /// http://localhost:40144/api/qrcode?url=http://blog.cashwu.com&pixel=15
         /// </summary>
         /// <param name="url"></param>
         /// <param name="pixel"></param>
